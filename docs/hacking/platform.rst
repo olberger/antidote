@@ -50,7 +50,7 @@ Next, clone and ``cd`` to the `Antidote-Web <https://github.com/nre-learning/ant
 
 This may take a few minutes the first time. Once you see a log message on the console that says something like
 ``org.apache.catalina.startup.Catalina.start Server startup in...``, you will be able to access the Web UI at
-`http://localhost:8080 <http://localhost:8080>`_.
+`http://127.0.0.1:8080 <http://127.0.0.1:8080>`_.
 
 To rebuild the environment, break out with ``Ctrl+c``, and re-run ``make hack``.
 
